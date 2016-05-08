@@ -1,3 +1,5 @@
+package booleanio;
+
 
 /**
  * Write a description of class boolean1 here.
@@ -8,7 +10,7 @@
 
 import inout.Console;
 
-public class BooelanReader
+public class BooleanReader
 {
     public static void main (String args[]){
         System.out.println("Wert für lichtschalter_1 eingeben:");
